@@ -1,0 +1,16 @@
+/Users/ravish/Desktop/dev/tech_tests/SwipeJobs/com.swipejobs.jobs.match.service/test-swipejobs/src/main/java/com/swipejobs/test/integration/WorkerService.java
+/Users/ravish/Desktop/dev/tech_tests/SwipeJobs/com.swipejobs.jobs.match.service/test-swipejobs/src/main/java/com/swipejobs/test/service/JobMatcherService.java
+/Users/ravish/Desktop/dev/tech_tests/SwipeJobs/com.swipejobs.jobs.match.service/test-swipejobs/src/main/java/com/swipejobs/test/config/Configs.java
+/Users/ravish/Desktop/dev/tech_tests/SwipeJobs/com.swipejobs.jobs.match.service/test-swipejobs/src/main/java/com/swipejobs/test/controller/JobMatcherController.java
+/Users/ravish/Desktop/dev/tech_tests/SwipeJobs/com.swipejobs.jobs.match.service/test-swipejobs/src/main/java/com/swipejobs/test/integration/JobService.java
+/Users/ravish/Desktop/dev/tech_tests/SwipeJobs/com.swipejobs.jobs.match.service/test-swipejobs/src/main/java/com/swipejobs/test/domain/Job.java
+/Users/ravish/Desktop/dev/tech_tests/SwipeJobs/com.swipejobs.jobs.match.service/test-swipejobs/src/main/java/com/swipejobs/test/domain/Worker.java
+/Users/ravish/Desktop/dev/tech_tests/SwipeJobs/com.swipejobs.jobs.match.service/test-swipejobs/src/main/java/com/swipejobs/test/domain/Name.java
+/Users/ravish/Desktop/dev/tech_tests/SwipeJobs/com.swipejobs.jobs.match.service/test-swipejobs/src/main/java/com/swipejobs/test/jobmatcher/SolrJobMatcher.java
+/Users/ravish/Desktop/dev/tech_tests/SwipeJobs/com.swipejobs.jobs.match.service/test-swipejobs/src/main/java/com/swipejobs/test/jobmatcher/JobMatcher.java
+/Users/ravish/Desktop/dev/tech_tests/SwipeJobs/com.swipejobs.jobs.match.service/test-swipejobs/src/main/java/com/swipejobs/test/utils/LocationDistanceCalculator.java
+/Users/ravish/Desktop/dev/tech_tests/SwipeJobs/com.swipejobs.jobs.match.service/test-swipejobs/src/main/java/com/swipejobs/test/domain/JobSearchAddress.java
+/Users/ravish/Desktop/dev/tech_tests/SwipeJobs/com.swipejobs.jobs.match.service/test-swipejobs/src/main/java/com/swipejobs/test/domain/Availability.java
+/Users/ravish/Desktop/dev/tech_tests/SwipeJobs/com.swipejobs.jobs.match.service/test-swipejobs/src/main/java/com/swipejobs/test/domain/Location.java
+/Users/ravish/Desktop/dev/tech_tests/SwipeJobs/com.swipejobs.jobs.match.service/test-swipejobs/src/main/java/com/swipejobs/test/jobmatcher/SimpleJobMatcher.java
+/Users/ravish/Desktop/dev/tech_tests/SwipeJobs/com.swipejobs.jobs.match.service/test-swipejobs/src/main/java/com/swipejobs/test/Application.java

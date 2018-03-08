@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.swipejobs.test.controller.JobMatcherControllerTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.918 sec - in com.swipejobs.test.controller.JobMatcherControllerTest
